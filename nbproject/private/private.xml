@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OpenServer/domains/newShop/models/AdminBase.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/components/Router.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/views/layouts/footer_admin.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/views/admin_order/index.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/controllers/AdminCategoryController.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/controllers/AdminOrderController.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/controllers/AdminController.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/views/admin_product/update.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/views/admin/index.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/views/layouts/header_admin.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/models/Product.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/components/Autoload.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/views/admin_category/update.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/config/routes.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/views/admin_product/create.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/controllers/AdminProductController.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/controllers/SiteController.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/models/Order.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/views/site/index.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/models/Category.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/index.php</file>
+            <file>file:/D:/OpenServer/domains/newShop/models/User.php</file>
+        </group>
+    </open-files>
+</project-private>
